@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'uni-sans';
+  font-weight: 900;
+  font-display: swap;
+  font-style: italic;
+  font-named-instance: 'Bold';
+  src: url(uni-sans.woff2) format("woff2");
+}
